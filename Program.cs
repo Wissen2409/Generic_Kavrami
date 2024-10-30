@@ -42,11 +42,64 @@ stringKoleksiyon.Add("fatma");
 //OGrenci tipinde bir koleksiyon tanımlayalım
 
 List<Ogrenci> ogrenciKoleksiyonu = new List<Ogrenci>();
-ogrenciKoleksiyonu.Add(new Ogrenci(){
+ogrenciKoleksiyonu.Add(new Ogrenci()
+{
 
-     Id=1,
-      Name=""
+    Id = 1,
+    Name = "adnan"
 });
+
+ogrenciKoleksiyonu.Add(new Ogrenci()
+{
+
+    Id = 2,
+    Name = "Metin"
+});
+
+
+// yukarıdaki örneklerden de anlaşılabileceği gibi, generic list koleksiyonunda, çalışmak istediğiniz tipi,
+// kendiniz derleme zamanında verebiliyorsunuz!!!
+
+
+// List generic koleksiyonun metotları
+// Ogrenci otomasyonu
+// Ogrenci ekleme
+// Ogrenci Silme
+// Ogrenci Güncelleme
+// Ogrenci Listeleme
+
+
+OgrenciHelper helper = new OgrenciHelper();
+Console.WriteLine("Öğrenci Otomasyon uygulamasına hoşgeldiniz.");
+while (true)
+{
+
+    
+    Console.WriteLine("Ögrenci listelemek için 1");
+    Console.WriteLine("Öğrenci silmek için 2");
+    Console.WriteLine("Öğrenci eklemek için 3");
+    Console.WriteLine("Öğrenci Güncellemek için 4");
+
+    int secim = int.Parse(Console.ReadLine());
+
+    switch (secim)
+    {
+        case 1:
+            helper.OgrenciListele();
+            break;
+        case 2:
+            helper.OgrenciSil();
+            break;
+        case 3:
+            helper.OgrenciEkle();
+            break;
+        case 4:
+            helper.OgrenciGuncelle();
+            break;
+
+    }
+
+}
 
 
 

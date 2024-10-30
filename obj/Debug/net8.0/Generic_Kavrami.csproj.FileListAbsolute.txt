@@ -1,0 +1,15 @@
+/Users/emrahelis/Generic_Kavrami/bin/Debug/net8.0/Generic_Kavrami
+/Users/emrahelis/Generic_Kavrami/bin/Debug/net8.0/Generic_Kavrami.deps.json
+/Users/emrahelis/Generic_Kavrami/bin/Debug/net8.0/Generic_Kavrami.runtimeconfig.json
+/Users/emrahelis/Generic_Kavrami/bin/Debug/net8.0/Generic_Kavrami.dll
+/Users/emrahelis/Generic_Kavrami/bin/Debug/net8.0/Generic_Kavrami.pdb
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.AssemblyInfoInputs.cache
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.AssemblyInfo.cs
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.sourcelink.json
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.dll
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/refint/Generic_Kavrami.dll
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.pdb
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/Generic_Kavrami.genruntimeconfig.cache
+/Users/emrahelis/Generic_Kavrami/obj/Debug/net8.0/ref/Generic_Kavrami.dll
