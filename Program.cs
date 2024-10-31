@@ -61,6 +61,14 @@ ogrenciKoleksiyonu.Add(new Ogrenci()
 // kendiniz derleme zamanında verebiliyorsunuz!!!
 
 
+
+// Generic list koleksiyonu arraylist koleksiyonunun generic halidir.!!
+
+// List koleksiyonunu da arraylist gibi kullanabilirsiniz!!!
+
+List<object> liste = new List<object>();
+
+
 // List generic koleksiyonun metotları
 // Ogrenci otomasyonu
 // Ogrenci ekleme
